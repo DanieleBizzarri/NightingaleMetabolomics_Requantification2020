@@ -18,5 +18,5 @@ By following these steps, you will be able to apply the MetaboAge 2.0 model to y
 
 
 ## Authors
-Daniele Bizzarri 
+Daniele Bizzarri, 
 Erik van den Akker

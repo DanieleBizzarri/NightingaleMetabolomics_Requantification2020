@@ -15,3 +15,7 @@ This subfolder contains the scripts and data to reproduce the MetaboAge 2.0 desc
 
 ### Requantification_scripts
 This subfolder describes the requantification procedure.
+
+## Authors
+Daniele Bizzarri, 
+Erik van den Akker
